@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9dKPnprt3IpH3Brw1c0TTUdxiUwwN9JK0mwk2ml4djE=",
+  "Source": "Auth_authorize",
+  "BasePath": "_content/Auth_authorize",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
